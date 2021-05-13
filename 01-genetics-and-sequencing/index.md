@@ -22,4 +22,4 @@ The following material is presented at a high-level, and contains several simpli
 
 
 
-Github: [Presentation](https://cbiit.github.io/brownbag-science/01-genetics-and-sequencing/) - [edit](https://github.com/CBIIT/brownbag-science/tree/main/01-genetics-and-sequencing)
+Github: [Presentation](https://cbiit.github.io/brownbag-science/01-genetics-and-sequencing/) - [edit src/md](https://github.com/CBIIT/brownbag-science/tree/main/01-genetics-and-sequencing)
