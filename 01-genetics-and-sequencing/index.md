@@ -8,9 +8,7 @@ The following material is presented at a high-level, and contains several simpli
 
 *Please* ask questions!
 
-
-
- [index.md](index.md) 
+ 
 
 * [Model for Cancer](01-model-for-cancer.md)
 * [Cell Structure](02-Cell-Structure.md) 
