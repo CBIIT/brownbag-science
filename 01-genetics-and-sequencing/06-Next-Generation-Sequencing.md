@@ -6,7 +6,13 @@ Just a *wee-bit* complicated
 
 
 
-Amplified/Template DNA --> Short Reads from Sequencer (FASTQ) --> Mapped reads (BAM) --> sequence !
+## (Extremely) Generic Steps
+
+1. (Sample) --> 
+2. Amplified/Template DNA --> 
+3. Short Reads from Sequencer (FASTQ) --> 
+4. Mapped reads (BAM) --> 
+5. sequence !
 
 ![img](img-src/07-Next-Generation-Sequencing.assets/Next_Generation_Sequencing_NGS_rainbow-sequence.png)
 
@@ -14,7 +20,7 @@ Amplified/Template DNA --> Short Reads from Sequencer (FASTQ) --> Mapped reads (
 
 
 
-## Overall Steps
+## Overall Steps - More Detail
 
 * <u>Sample preparation</u> (extract dna from biological sample)
 * <u>Library Preparation</u>, Construction (chop up DNA into fragments)
