@@ -3,5 +3,5 @@ Discussing Science over Lunch
 
 * [Genetics and Sequencing](https://cbiit.github.io/brownbag-science/01-genetics-and-sequencing/) - May 13, 2021
 
-
-Github repo "brownbag-science": [https://github.com/CBIIT/brownbag-science](https://github.com/CBIIT/brownbag-science)
+---
+Github repo Page: [https://github.com/CBIIT/brownbag-science](https://github.com/CBIIT/brownbag-science)
