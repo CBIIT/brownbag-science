@@ -5,7 +5,7 @@ Discussing Science over Lunch
 
 
 
-Presentations (github-pages): [https://cbiit.github.io/brownbag-science/](https://cbiit.github.io/brownbag-science/)
+Presentations: [https://cbiit.github.io/brownbag-science/](https://cbiit.github.io/brownbag-science/)
 
-Edit on Github: [https://github.com/CBIIT/brownbag-science]([https://github.com/CBIIT/brownbag-science)
+Edit on Github: [https://github.com/CBIIT/brownbag-science](https://github.com/CBIIT/brownbag-science)
 
