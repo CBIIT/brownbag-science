@@ -23,5 +23,5 @@ The following material is presented at a high-level, and contains several simpli
 
 
 Github repo:
-* [Online Presentations](https://cbiit.github.io/brownbag-science/01-genetics-and-sequencing/)
+* [This Presentation Online](https://cbiit.github.io/brownbag-science/01-genetics-and-sequencing/)
 * [edit](https://github.com/CBIIT/brownbag-science/tree/main/01-genetics-and-sequencing)
