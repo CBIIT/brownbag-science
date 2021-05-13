@@ -5,3 +5,5 @@ Discussing Science over Lunch
 
 ---
 Github repo: [https://github.com/CBIIT/brownbag-science](https://github.com/CBIIT/brownbag-science)
+
+[About](about.md)
