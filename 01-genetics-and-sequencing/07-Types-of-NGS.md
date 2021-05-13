@@ -23,5 +23,5 @@ Also:
 
 Prev: [06-Next-Generation-Sequencing.md](06-Next-Generation-Sequencing.md) 
 
-Next:  [07-Types-of-NGS.md](07-Types-of-NGS.md) 
+Next:  [08-Appendix.md](08-Appendix.md) 
 

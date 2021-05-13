@@ -2,11 +2,11 @@
 
 
 
-:warning:  The following material is presented at a high-level, and contains several simplifications and generalizations that many likely consider inaccurate
+The following material is presented at a high-level, and contains several simplifications and generalizations. 
 
 
 
-Please ask questions!
+*Please* ask questions!
 
 
 
@@ -20,4 +20,8 @@ Please ask questions!
 * [Next-Generation Sequencing](06-Next-Generation-Sequencing.md) 
 * [Types of NGS](07-Types-of-NGS.md)
 * [Appendix](08-Appendix.md) 
+
+
+
+Presentation in github repo: [brownbag-science](https://github.com/CBIIT/brownbag-science/tree/main/01-genetics-and-sequencing) 
 
