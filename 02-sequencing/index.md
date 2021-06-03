@@ -1,23 +1,52 @@
-# Genetics and Sequencing
-
-
-
-The following material is presented at a high-level, and contains several simplifications and generalizations. 
+# Sequencing
 
 
 
 *Please* ask questions!
 
+
+
+* [Central Dogma](central-dogma.md)
+* [Next-Generation Sequencing Workflow](next-generation-sequencing-workflow.md)
+  * Library Prep
+  * Sequencing
+  * Data Analysis
+* [Shotgun Sequencing](shotgun-sequencing.md)
+* [Next-Generation Sequencing Workflow](next-generation-sequencing-workflow.md)
+  * Library Prep
+  * Sequencing
+  * Data Analysis
+* [Types of NGS](types-of-ngs.md)
+* [Sanger versus illumina](sanger-vs-illumina.md)
+* [illumina](illumina.md)
+
  
 
-* [Model for Cancer](01-model-for-cancer.md)
-* [Cell Structure](02-Cell-Structure.md) 
-* [Central Dogma of Biology](03-Central-Dogma.md) 
-* [NCBI](04-NCBI.md) 
-* [Medical Genetics](05-Medical-Genetics.md) 
-* [Next-Generation Sequencing](06-Next-Generation-Sequencing.md) 
-* [Types of NGS](07-Types-of-NGS.md)
-* [Appendix](08-Appendix.md) 
+Reference
+
+* [Genome Size](genome-size.md)
+* [Milestones](milestones.md)
+* [NCBI Resources](ncbi.md)
+* [Medical Genetics](Medical-Genetics.md)
+* [References and Sources](references-and-sources.md)
+* [Terminology](terminology.md)
+* [File Formats](file-formats.md)
+
+
+
+
+
+# Take Home Messages
+
+
+
+1. Through chemistry, biochemistry, and understanding molecular biology - we can determine the sequences of our genome
+2. There is a lot of work that happens after the Sequencer machine does its work
+3. There are different types of sequencing, and each type has its own strengths and weaknesses; (cost, accuracy, time, etc).
+4. Sometimes you don't need the entire genome sequence, but rather a targeted subset: maybe just the exons, just the RNA, or a panel of carefully selected genes (oncomine)
+5. The "reference assembly" for the human genome was originally based on just a few individuals, and we need to have thousands of individuals to better understand, create a catalogue of common human genetic variation
+
+
 
 
 
