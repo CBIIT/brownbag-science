@@ -62,4 +62,4 @@ Notable Sequencing Applications
 
 
 
-Github: [[View Presentation](https://cbiit.github.io/brownbag-science/01-genetics-and-sequencing/)] - [[edit source](https://github.com/CBIIT/brownbag-science/tree/main/01-genetics-and-sequencing)]
+Github: [[View Presentation](https://github.com/CBIIT/brownbag-science/blob/main/02-sequencing/index.md)] - [[edit source](https://github.com/CBIIT/brownbag-science/tree/main/02-sequencing)]
