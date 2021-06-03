@@ -37,8 +37,4 @@ Genome comparisons
 
 
 
-Dirty Secret: sequence comparison - especially for ancestry analysis is almost always only done on ***1*** gene; it is too complicated to use more genes.
-
-
-
 ![Graph: Sequencing Cost Per Genome](img-src/genome-size.assets/NHGRISequencing_Cost_per_Genome_Aug2020.jpg)
