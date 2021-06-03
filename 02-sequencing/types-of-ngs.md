@@ -2,6 +2,13 @@
 
 
 
+|                                    | Sanger | MiSeq | HiSeq | NovaSeq |
+| ---------------------------------- | ------ | ----- | ----- | ------- |
+| Reads (millions) from a single run | 0.0004 | 30    | 3,000 | 13,000  |
+| Gigabases/day                      | 0.001  | 7     | 500   | 4000    |
+
+also see [cost of sequencing](genome-size.md)
+
 
 
 |                                   |                          | **Illumina**  |               |                            |                 |                      |                        |                          |
@@ -37,4 +44,75 @@ Also:
 
 
 ---
+
+
+
+Illumina Sequencing
+
+- 90% of sequencing market
+- millions to billions of reads per run
+- 300 to 600 bases per read
+- high fidelity > 99.9% accuracy
+- can do $1000 genome in 48 hours
+- Issues/limitations
+  - length limits - limited to 300 bases (errors from chemistry adds up)
+  - some lagging, some jumping ahead
+  - sometimes hard to tell clusters apart
+  - able to detect differences in clusters when differences occur, look in middle
+  - colors can be similar (blue, green, yellow) close to each other in frequency
+
+
+
+**II. Long-Read Sequencing (Nanopore)**
+
+* single strand of dna is threaded through pore, current is measured
+
+- high error rates (10-15%)
+
+- - errors are biased
+
+- can read RNA directly
+
+- really long reads (2 Mb)
+
+- extremely portable (can be done in field), very small device! 
+
+- See Nature Review Drug Discovery vol 1, p. 77-84 (2002)
+
+
+
+**III. PacBio (also synthesis based sequencer)**
+
+different chemistry
+
+- no blocker
+- fluorescent group is on phosphate group)
+- 4 bases, four colors
+- camera monitors image in real time
+- 1 to 8 million wells
+- long reads (100kb)
+- High error rates (10-15%)
+  - errors are random! (good)
+  - if you sample same fragment several times, errors go away with consensus sequence
+  - can yield accuracy of 1:1000 to 1:10,000 (which exceeds illumina sequencing accuracy)
+- nature review genetics 11, 31-46 (2010)
+
+
+
+CONS:
+
+- harder to prepare
+- cost more
+
+PROS
+
+- if you want to assemble new genome (no reference sequence), MUCH easier
+
+- - (sometimes you get structural variants in short reads, sequences are inverted)
+
+- much better at structural variation detection (important for certain cancers)
+
+- phase variation: which variant are on which chromosome?
+
+- - can be difficult to determine if mutation is on chromosome A or chromosome B (we get two)
 

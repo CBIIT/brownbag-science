@@ -34,6 +34,17 @@ Reference
 
 
 
+Notable Sequencing Applications
+
+- pre-natal testing - can sequence mothers blood (fetal dna makes way into mothers bloodstream)
+
+- - jama 2015: 314(2):198
+
+- cancer detection - cancer is shedding dna constantly
+- transplant rejection - where transplant has different dna
+- detect pathogens - 
+- precision medicine for study matching
+
 
 
 # Take Home Messages
