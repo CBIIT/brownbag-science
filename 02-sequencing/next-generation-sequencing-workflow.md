@@ -65,7 +65,4 @@ Steps in a typical next-generation resequencing workflow. *De facto* standard fi
 
 ---
 
-Prev:  [05-Medical-Genetics.md](05-Medical-Genetics.md) 
-
-Next:  [07-Types-of-NGS.md](07-Types-of-NGS.md) 
-
+[index](https://cbiit.github.io/brownbag-science/02-sequencing)

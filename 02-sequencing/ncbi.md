@@ -61,7 +61,4 @@ Also see: [HGVS](https://varnomen.hgvs.org/) *the* standard notation / nomenclat
 
 ---
 
-Prev:  [03-Central-Dogma.md](03-Central-Dogma.md) 
-
-Next:  [05-Medical-Genetics.md](05-Medical-Genetics.md) 
-
+[index](https://cbiit.github.io/brownbag-science/02-sequencing)

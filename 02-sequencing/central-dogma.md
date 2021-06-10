@@ -66,6 +66,4 @@ In RNA, units of three nucleotides that encode for amino acids are referred to a
 
 ---
 
-Prev:  [02-Cell-Structure.md](02-Cell-Structure.md) 
-
-Next:  [04-NCBI.md](04-NCBI.md) 
+[index](https://cbiit.github.io/brownbag-science/02-sequencing)

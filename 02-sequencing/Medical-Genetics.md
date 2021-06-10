@@ -39,7 +39,4 @@ When something goes wrong
 
 ----
 
-Prev:  [04-NCBI.md](04-NCBI.md) 
-
-Next:  [06-Next-Generation-Sequencing.md](06-Next-Generation-Sequencing.md) 
-
+[index](https://cbiit.github.io/brownbag-science/02-sequencing)
